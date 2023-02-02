@@ -1,0 +1,6 @@
+C:\day2\CstConsoleday2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\day2\CstConsoleday2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\day2\CstConsoleday2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\day2\CstConsoleday2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\day2\CstConsoleday2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\day2\CstConsoleday2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

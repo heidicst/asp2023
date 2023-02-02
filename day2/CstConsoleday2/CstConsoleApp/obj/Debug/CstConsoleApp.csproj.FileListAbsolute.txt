@@ -1,0 +1,7 @@
+C:\day2\CstConsoleday2\CstConsoleApp\bin\Debug\CstConsoleApp.exe.config
+C:\day2\CstConsoleday2\CstConsoleApp\bin\Debug\CstConsoleApp.exe
+C:\day2\CstConsoleday2\CstConsoleApp\bin\Debug\CstConsoleApp.pdb
+C:\day2\CstConsoleday2\CstConsoleApp\obj\Debug\CstConsoleApp.csproj.AssemblyReference.cache
+C:\day2\CstConsoleday2\CstConsoleApp\obj\Debug\CstConsoleApp.csproj.CoreCompileInputs.cache
+C:\day2\CstConsoleday2\CstConsoleApp\obj\Debug\CstConsoleApp.exe
+C:\day2\CstConsoleday2\CstConsoleApp\obj\Debug\CstConsoleApp.pdb
