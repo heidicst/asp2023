@@ -1,0 +1,7 @@
+C:\asp2023\day4\CstDay4\DaysoftheMonth\bin\Debug\DaysoftheMonth.exe.config
+C:\asp2023\day4\CstDay4\DaysoftheMonth\bin\Debug\DaysoftheMonth.exe
+C:\asp2023\day4\CstDay4\DaysoftheMonth\bin\Debug\DaysoftheMonth.pdb
+C:\asp2023\day4\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.csproj.AssemblyReference.cache
+C:\asp2023\day4\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.csproj.CoreCompileInputs.cache
+C:\asp2023\day4\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.exe
+C:\asp2023\day4\CstDay4\DaysoftheMonth\obj\Debug\DaysoftheMonth.pdb

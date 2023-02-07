@@ -1,0 +1,7 @@
+C:\asp2023\day4\CstDay4\sanyuanExpression\bin\Debug\sanyuanExpression.exe.config
+C:\asp2023\day4\CstDay4\sanyuanExpression\bin\Debug\sanyuanExpression.exe
+C:\asp2023\day4\CstDay4\sanyuanExpression\bin\Debug\sanyuanExpression.pdb
+C:\asp2023\day4\CstDay4\sanyuanExpression\obj\Debug\sanyuanExpression.csproj.AssemblyReference.cache
+C:\asp2023\day4\CstDay4\sanyuanExpression\obj\Debug\sanyuanExpression.csproj.CoreCompileInputs.cache
+C:\asp2023\day4\CstDay4\sanyuanExpression\obj\Debug\sanyuanExpression.exe
+C:\asp2023\day4\CstDay4\sanyuanExpression\obj\Debug\sanyuanExpression.pdb

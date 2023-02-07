@@ -1,0 +1,7 @@
+C:\asp2023\day4\CstDay4\loopchengfa\bin\Debug\loopchengfa.exe.config
+C:\asp2023\day4\CstDay4\loopchengfa\bin\Debug\loopchengfa.exe
+C:\asp2023\day4\CstDay4\loopchengfa\bin\Debug\loopchengfa.pdb
+C:\asp2023\day4\CstDay4\loopchengfa\obj\Debug\loopchengfa.csproj.AssemblyReference.cache
+C:\asp2023\day4\CstDay4\loopchengfa\obj\Debug\loopchengfa.csproj.CoreCompileInputs.cache
+C:\asp2023\day4\CstDay4\loopchengfa\obj\Debug\loopchengfa.exe
+C:\asp2023\day4\CstDay4\loopchengfa\obj\Debug\loopchengfa.pdb

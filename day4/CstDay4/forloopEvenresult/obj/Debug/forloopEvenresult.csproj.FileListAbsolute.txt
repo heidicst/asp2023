@@ -1,0 +1,6 @@
+C:\asp2023\day4\CstDay4\forloopEvenresult\bin\Debug\forloopEvenresult.exe.config
+C:\asp2023\day4\CstDay4\forloopEvenresult\bin\Debug\forloopEvenresult.exe
+C:\asp2023\day4\CstDay4\forloopEvenresult\bin\Debug\forloopEvenresult.pdb
+C:\asp2023\day4\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.csproj.CoreCompileInputs.cache
+C:\asp2023\day4\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.exe
+C:\asp2023\day4\CstDay4\forloopEvenresult\obj\Debug\forloopEvenresult.pdb
