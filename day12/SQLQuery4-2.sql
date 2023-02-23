@@ -32,4 +32,3 @@ INSERT [dbo].[userInfo]
 )
 VALUES 
 ('Alice', '123456', 23, '', '', '', '', '', 0);
-INSERT [dbo].[userInfo]([UserName], [UserPassword], [UserAge], [UserEmail], [UserMobile], [CreateDate], [LastLogin], [LastErrDateTime], [DelFlag])VALUES('Alice', '123456', 23, '', '', '', '', '', 0);
