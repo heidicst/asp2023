@@ -61,6 +61,7 @@ namespace CstDemo1
             this.dgvUserInfo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvUserInfo.Location = new System.Drawing.Point(52, 103);
             this.dgvUserInfo.Name = "dgvUserInfo";
+            this.dgvUserInfo.ReadOnly = true;
             this.dgvUserInfo.RowHeadersWidth = 62;
             this.dgvUserInfo.RowTemplate.Height = 28;
             this.dgvUserInfo.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;

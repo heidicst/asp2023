@@ -1,0 +1,31 @@
+﻿@using System.Data;
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_CstLayout.cshtml";
+}
+
+<h2>List All users</h2>
+
+@{ DataTable dt=(DataTable)ViewData["dt"];}
+
+<table>
+    <tr>
+        <th>UserId</th><th>UserName</th><th>UserAge</th><th>UserEmail</th><th>UserMobile</th>
+    </tr>
+    @{ 
+        foreach (DataRow dataRow in dt.Rows)
+        {
+            <tr>
+                <td>@dataRow["UserID"]</td>
+                <td>@dataRow["UserName"]</td>
+    <td>@dataRow["UserAge"]</td>
+    <td>@dataRow["UserEmail"]</td>
+    <td>@dataRow["UserMobile"]</td>
+
+            </tr>
+
+        }
+    }
+
+</table>
+

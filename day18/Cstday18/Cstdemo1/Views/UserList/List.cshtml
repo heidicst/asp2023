@@ -1,0 +1,19 @@
+﻿@using Cstdemo1.Models;
+
+@{ 
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_CstLayout.cshtml";
+}
+
+<h2>List all Users  </h2>
+@{ 
+
+
+    string cstStr = ViewData["abcStr"].ToString();
+
+    <h2>@cstStr</h2>
+    <h2>@ViewBag.myName</h2>
+    <h3>@TempData["CstName"]</h3>  
+    
+
+}
